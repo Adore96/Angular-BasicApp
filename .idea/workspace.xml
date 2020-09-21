@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9763b37-0131-428b-98a3-3fb7eeaa8fc3" name="Default Changelist" comment="Create Angular-Basic" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hfuV03OxV62hs0kuWkAi7bPjdX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Users\Kasun_k\WebstormProjects\Angular-Basic\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (Angular-Basic)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (Angular-Basic)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9763b37-0131-428b-98a3-3fb7eeaa8fc3" name="Default Changelist" comment="" />
+      <created>1600414494263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600414494263</updated>
+      <workItem from="1600414497941" duration="8524000" />
+      <workItem from="1600659631092" duration="543000" />
+      <workItem from="1600661238989" duration="1466000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create Angular-Basic">
+      <created>1600662348194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600662348194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Angular-Basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Angular-Basic" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1339" height="398" key="GridCell.Tab.0.bottom" timestamp="1600429057203">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="398" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1600429057203" />
+    <state width="1339" height="398" key="GridCell.Tab.0.center" timestamp="1600429057203">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="398" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1600429057203" />
+    <state width="1339" height="398" key="GridCell.Tab.0.left" timestamp="1600429057203">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="398" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1600429057203" />
+    <state width="1339" height="398" key="GridCell.Tab.0.right" timestamp="1600429057203">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="398" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1600429057203" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1600416661830">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1600416661830" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600662365329">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1600662365329" />
+  </component>
+</project>
